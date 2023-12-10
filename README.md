@@ -1,3 +1,6 @@
+Mail = mail@mail.com
+password = hola123
+
 # HW 03: Sequelize part 1 | Integration
 
 ## **🕒 Duración estimada**
